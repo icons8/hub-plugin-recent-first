@@ -1,0 +1,9 @@
+{
+  "name": "recent-first",
+  "icon": "icon.png",
+  "description": "Sessions in the list on the left by their latest activity: whoever just worked or wrote is higher. Within each group (\"Specialists\", \"Executors\"…) executors stay under their agent",
+  "why": "Active agents on top: no need to search the list for who is working now",
+  "version": "1.2.2",
+  "hub": "^1.4",
+  "web": "web/main.js"
+}
